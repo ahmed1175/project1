@@ -1,0 +1,18 @@
+div.Com12{
+  border-top: 1px solid rgb(143, 142, 142);
+
+}
+div.Com12 h2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 65%;
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: start;
+  letter-spacing: normal;
+  color: var(--small-color);
+  
+}

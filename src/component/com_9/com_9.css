@@ -1,0 +1,184 @@
+div.Com9{
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+}
+div.Com9 div.card section{
+  align-items: center;
+  display: flex;
+  gap: 7px;
+  height: fit-content;
+  border: 1px solid var(--blue);
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  border-radius: 25px;
+  width: 13rem;
+  justify-content: center;
+  color: var(--blue);
+  cursor: pointer;
+  font-size: 13px;
+  height: 3rem;
+  margin-left: 3rem;
+}
+div.Com9 div.card section h3{
+  padding-right: 2rem;
+  color: var(--blue);
+  
+}
+div.Com9 div.card section span{
+  padding-left: 2rem;
+  color: var(--blue);
+}
+div.Com9 div.word h1{
+  font-family: "Cabinet Grotesk", ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 64px;
+  line-height: 64px;
+  text-align: start;
+  letter-spacing: 1.6px;
+  color: var(--font-color);
+}
+div.Com9 div.word p{
+  width: 80%;
+  font-size: 18px;
+  line-height: 32px;
+  text-align: start;
+  letter-spacing: -0.45px;
+  color: var(--small-color);
+}
+div.Com9 div.main{
+  
+  margin-bottom: 4rem;
+  background-color: var(--gray-color);
+border-radius: 30px;
+  display: flex;
+  justify-content: space-around;
+}
+div.Com9 div.main div.left span{
+font-family: "Cabinet Grotesk", ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+font-size: 72px;
+line-height: 72px;
+text-align: start;
+letter-spacing: -1.8px;
+color: var(--font-color);
+
+} 
+div.Com9 div.main div.left h4{
+  
+  font-size: 22px;
+  line-height: 24px;
+  text-align: start;
+  letter-spacing: normal;
+  color: var(--font-color);
+}
+div.Com9 div.main div.left p{
+  font-size: 18px;
+  line-height: 32px;
+  text-align: start;
+  letter-spacing: -0.8px;
+  color: var(--small-color);
+  
+}
+div.Com9 div.main div.left button{
+  background-color: var(--font-color);
+  color: var(--white);
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  padding: 0.4rem;
+  border-radius: 6px;
+  box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(15, 23, 42, 0.08) 0px 2px 6px 0px;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: start;
+  letter-spacing: normal;
+  font-weight: 600;
+  border: none;
+
+}
+div.Com9 div.main div.left section.a1{
+  display: flex;
+  align-items: center;
+  padding: 0;
+  font-size: 16px;
+color: var(--small-color);
+margin: 0.8rem;
+height: 3rem;
+}
+div.Com9 div.main div.left section.a1 span{
+  font-size: 1.5rem;
+  margin-right: 2rem;
+}
+div.Com9 div.main div.left section.a1 h5{
+  font-size: 16px;
+  line-height: 24px;
+  text-align: start;
+  letter-spacing: normal;
+
+}
+div.Com9 div.main div.right span{
+  font-family: "Cabinet Grotesk", ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 72px;
+  line-height: 72px;
+  text-align: start;
+  letter-spacing: -1.8px;
+  color: var(--white);
+
+}
+div.Com9 div.main div.left{
+  padding: 3rem;
+  margin: 0;
+  
+}
+div.Com9 div.main div.right{
+  background-color: var(--blue);
+padding: 3rem;
+border-radius: 48px;
+box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(15, 23, 42, 0.08) 0px 8px 15px 0px, rgba(15, 23, 42, 0.08) 0px 3px 6px 0px;
+
+}
+div.Com9 div.main div.right h4{
+  font-size: 22px;
+  line-height: 24px;
+  text-align: start;
+  letter-spacing: normal;
+  color: var(--white);
+}
+div.Com9 div.main div.right p{
+  font-size: 18px;
+  line-height: 32px;
+  text-align: start;
+  letter-spacing: -0.45px;
+  color: var(--white);
+}
+div.Com9 div.main div.right button{
+  width: 100%;
+  color: var(--blue);
+  font-size: 16px;
+  line-height: 32px;
+  text-align: start;
+  letter-spacing: -0.45px;
+  display: flex;
+  justify-content: center;
+  border-radius: 6px;
+  box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(15, 23, 42, 0.08) 0px 2px 6px 0px;
+  border: none;
+  
+}
+div.Com9 div.main div.right section.a2{
+  display: flex;
+align-items: center;
+padding: 0;
+margin: 0.6rem;
+height: 3rem;
+}
+div.Com9 div.main div.right section.a2 h5{
+  font-size: 16px;
+  line-height: 32px;
+  text-align: start;
+  letter-spacing: -0.4px;
+  color: var(--white);
+}
+div.Com9 div.main div.right section.a2 span{
+  font-size: 1.5rem;
+  margin-right: 2rem;
+}

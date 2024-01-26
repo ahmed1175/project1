@@ -1,0 +1,87 @@
+div.Com10 section{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 65%;
+  margin-left: auto;
+  margin-right: auto;
+align-items: center;
+}
+div.Com10 section h1{
+  font-size: 32px;
+  line-height: 40px;
+  letter-spacing: -0.8px;
+text-align: center;
+color: var(--font-color);
+font-family: "Cabinet Grotesk", ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
+}
+div.Com10 section p{
+  font-size: 18px;
+  line-height: 32px;
+  text-align: center;
+  letter-spacing: -0.45px;
+  color: var(--small-color);
+  width: 95%;
+}
+div.Com10 div.card {
+  width: 25%;
+  margin: 1rem;
+box-shadow: rgb(255, 255, 255) 0px 0px 0px 0px, rgba(15, 23, 42, 0.05) 0px 0px 0px 1px, rgba(15, 23, 42, 0.05) 0px 8px 8px 0px, rgba(15, 23, 42, 0.05) 0px 3px 6px 0px;
+border-radius: 32px;
+  padding: 2rem;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  
+  flex-direction: column;
+}
+div.Com10 div.card p{
+  font-size: 18px;
+  line-height: 32px;
+  text-align: left;
+  letter-spacing: -0.45px;
+color: #0f172a;
+}
+div.Com10 div.card section.photo{
+  all: unset;
+  display: flex; 
+  align-items: center;
+  margin-top: 2rem;
+margin-right: 5rem;
+}
+div.Com10 div.card section.photo img{
+  width: 3.4rem;
+  height: 3.4rem;
+  border: 1px solid rgb(161, 161, 161);
+  border-radius: 50%;
+}
+div.Com10 div.card section.photo div{
+  all: unset;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 1rem;
+  gap: 14px;
+
+}
+div.Com10 div.card section.photo div h5{
+  all: unset;
+  font-size: 16px;
+line-height: 24px;
+text-align: left;
+letter-spacing: normal;
+color: var(--font-color);
+}
+div.Com10 div.card section.photo div p{
+  all: unset;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: left;
+  letter-spacing: normal;
+  color: var(--small-color);
+}
+div.Com10 div.handle{
+  display: flex;
+  flex-wrap: wrap;
+}

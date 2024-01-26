@@ -1,0 +1,100 @@
+div.Com11{
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+  background-color: var(--gray-color);
+  border-radius: 25px;
+}
+div.Com11 div.header div{
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 3rem;
+  margin-right: 2rem;
+}
+div.Com11 div.header div img{
+  border-radius: 50%;
+  height: 24rem;
+  width: 24rem;
+}
+div.Com11 div.header section{
+  display: flex;
+  align-items:center;
+  border: 1px solid var(--blue);
+  width: 8rem;
+  justify-content: center;
+  gap: 10px;
+  border-radius: 25px;
+  color: var(--blue);
+  line-height: 32px;
+  letter-spacing: -0.4px;
+  text-align: start;
+height: 3rem;
+
+
+}
+div.Com11 div.header section span{
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: normal;
+  text-align: start;
+
+}
+div.Com11 div.header section h5{
+  font-size: 16px;
+  line-height: 32px;
+  letter-spacing: -0.4px;
+  text-align: start;
+
+}
+div.Com11 div.handle{
+  display: flex;
+  justify-content: space-around;
+  align-items: end;
+  gap: 15rem;
+}
+div.Com11 div.word{
+  all: unset;
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+  margin: 0;
+  margin-bottom: 3rem;
+  
+}
+div.Com11 div.word h1{
+  font-family: "Cabinet Grotesk", ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 64px;
+  line-height: 64px;
+  text-align: start;
+  letter-spacing: -1.6px;
+  color: var(--blue);
+  margin-bottom: 1rem;
+}
+div.Com11 div.word h2{
+  font-size: 64px;
+  line-height: 64px;
+letter-spacing: -1.6px;
+text-align: start;
+margin-top:0 ;
+color: var(--font-color);
+}
+div.Com11 div.word p{
+  font-size: 18px;
+line-height: 32px;
+text-align: start;
+letter-spacing: -0.45px;
+color: var(--small-color);
+margin-top: 0;
+}
+div.Com10 div.button{
+  all: unset;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+}
+div.Com10 div.button button{
+  all: unset;
+  text-decoration-line: underline;
+  font-size: 16px;
+  margin: 1rem;
+}

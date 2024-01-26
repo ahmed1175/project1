@@ -1,0 +1,24 @@
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+*{
+  scroll-behavior: smooth;
+}
+:root {
+  --blue: #2563eb;
+  --right-top: #f1f5f9;
+  --white: #ffff;
+  --font-color: #0f172a;
+  --small-color: #475569;
+  --gray-color:#f8fafc;
+  --soft-blue:#bfdbfe;
+}
+li{
+  all: unset;
+}
+ul{
+  all: unset;
+}

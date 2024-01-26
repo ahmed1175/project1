@@ -1,0 +1,106 @@
+div.com8{
+
+  background-color:var(--blue);
+  display: flex;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  padding-bottom: 3rem;
+  padding-top: 3rem;
+}
+div.com8 div{
+  margin-right: auto;
+  margin-left: auto;
+  width: 70%;
+  display: flex;
+
+}
+div.com8 div div.a1 h1{
+  font-size: 64px;
+  line-height: 64px;
+  text-align: start;
+  letter-spacing: -1.6px;
+  color: var(--white);
+margin-bottom: 0;
+margin-top: 5rem;
+  font-family: "Cabinet Grotesk", ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+div.com8 div.a1{
+  display: flex;
+  flex-direction: column;
+
+}
+div.com8 div div.a1 p{
+  font-size: 18px;
+  line-height: 32px;
+  text-align: start;
+  letter-spacing: -0.45px;
+  color: var(--soft-blue);
+  margin-bottom: 4rem;
+}
+div.com8 div.a2{
+display: flex;
+align-items: start;
+justify-content: center;
+
+}
+div.com8 div.a2 button {
+  all: unset;
+  display:flex;
+  justify-content: start;
+}
+div.com8 div.a2 button span{
+  color: var(--white);
+  margin-right: 3rem;
+  font-size: 16px;
+  line-height: 32px;
+  text-align: start;
+  letter-spacing: -0.4px;
+  font-weight: 500;
+
+}
+div.com8 div.a2{
+  display: flex;
+  flex-direction: column;
+align-items: center;
+margin-top: 6rem;
+}
+div.com8 div.a2 form button{
+  border-radius: 8px;
+}
+div.com8 div.a2 form {
+  margin-top: 1rem;
+  display: flex;
+border: 1px solid var(--soft-blue);
+padding: 0.8rem;
+border-radius: 15px;
+margin-left: 2rem;
+color: var(--white);
+background-color: var(--blue);
+width:80%;
+justify-content: space-between;
+
+}
+div.com8 div.a2 form input{
+  all: unset;
+  background-color: var(--blue);
+  margin: 1px;
+  padding: 5px;
+  margin-right: 4px;
+  color:white;
+  border-radius: 8px;
+}
+div.com8 div.a2 form input::placeholder{
+  color: var(--soft-blue);
+}
+div.com8 div.a2 form button{
+  background-color: var(--white);
+  color: var(--blue);
+  padding: 10px;
+  border-radius: 6px;
+  height: 20px;
+}
+div.com8 div.a2 form:hover{
+  border:1px solid var(--soft-blue)
+}

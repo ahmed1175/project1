@@ -1,0 +1,40 @@
+div.com2{
+  background-color: var(--white);
+  padding: 8rem;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+  color: #0f172a;
+}
+div.com2 h2{
+  font-size: 32px;
+  line-height: 40px;
+  text-align: start;
+  letter-spacing: -0.8px;
+  color: var(--font-color);
+background-color: var(--white);
+font-family: "Cabinet Grotesk", ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+font-weight: 400;
+}
+div.com2 p{
+  color: var(--small-color);
+  font-size: 18px;
+  line-height: 32px;
+  text-align: start;
+  letter-spacing: -0.4px;
+  background-color: var(--white);
+  margin-top: 2rem;
+margin-bottom: 2rem;
+}
+div.com2 p.true span{
+  margin-right: 2rem;
+}
+div.com2 a{
+  all: unset;
+  color: var(--blue);
+  font-size: 18px;
+  line-height: 32px;
+  text-align: start;
+  letter-spacing: -0.45px;
+  
+}

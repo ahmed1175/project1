@@ -1,0 +1,131 @@
+div.com1 {
+  height: 120vh;
+}
+div.com1 section.left {
+  background-color: var(--blue);
+  width: 25rem;
+  margin: 0;
+  padding: 0;
+  height: 120vh;
+  border-radius: 0 0 4rem 0;
+}
+div.com1 section.left img {
+  height: 40rem;
+  position: absolute;
+  top: 13%;
+  left: 7%;
+  width: 30rem;
+  box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px,
+    rgba(15, 23, 42, 0.17) 2px 11px 16px 0px,
+    rgba(15, 23, 42, 0.17) 0px 1px 6px 0px,
+    rgba(15, 23, 42, 0.17) 3px 23px 24px 0px;
+  border-radius: 12px;
+}
+div.com1 {
+  display: flex;
+}
+div.com1 section.right {
+  background-color: var(--white);
+  height: 100vh;
+  width: 100%;
+}
+div.com1 section.right div.top {
+  background-color: var(--right-top);
+  height: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  padding-bottom: 2.5rem;
+}
+div.com1 section.right div.top div p {
+  color: var(--font-color);
+  display: flex;
+  justify-content: flex-end;
+  width: 28rem;
+  font-size: 18px;
+  line-height: 32px;
+  letter-spacing: normal;
+  text-align: left;
+  font-weight: 400;
+  margin-left: 3rem;
+}
+div.com1 section.right div.button {
+  background-color: var(--white);
+  display: flex;
+  padding-left: 10rem;
+  margin: 3rem;
+  height: 60%;
+  align-items: center;
+  justify-content: start;
+  flex-direction: column;
+}
+
+div.com1 section.right div.button h1 {
+  font-size: 55px;
+  line-height: 64px;
+  text-align: start;
+  color: #0f172a;
+
+  width: 35rem;
+
+  font-family: "Cabinet Grotesk", ui-sans-serif, system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans",
+    sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
+    "Noto Color Emoji";
+}
+div.com1 section.right div.button h4 {
+  font-size: 22px;
+  line-height: 32px;
+  text-align: start;
+  letter-spacing: normal;
+  width: 35rem;
+  color: var(--small-color);
+  font-family: __Inter_20951f, __Inter_Fallback_20951f;
+  background-color: var(--white);
+  font-weight: 200;
+}
+div.com1 section.right div.button div {
+  display: flex;
+  width: 90%;
+  justify-content: center;
+  gap: 15px;
+}
+div.com1 section.right div.button div button.a1 {
+  all: unset;
+  background-color: var(--blue);
+  color: var(--white);
+  padding: 0.7rem;
+  border-radius: 5px;
+  font-weight: bold;
+}
+div.com1 section.right div.button div button.a2 {
+  all: unset;
+  background-color: var(--white);
+  color: var(--blue);
+  padding: 0.7rem;
+  font-weight: bold;
+  border: 0.5px solid rgb(145, 139, 139);
+  border-radius: 5px;
+}
+
+div.com1 section.right div.top div div {
+  margin-left: 3rem;
+  font-size: 25px;
+  display: flex;
+}
+div.com1 section.right div.top div div.after {
+  display: flex;
+  gap: 4px;
+}
+div.com1 section.right div.top div div.after div.blue {
+  font-size: 15px;
+  color: var(--blue);
+  display: flex;
+  margin: 0;
+}
+div.com1 section.right div.top div div.after div.gray {
+  font-size: 15px;
+  color: var(--small-color);
+  display: flex;
+  margin: 0;
+}
